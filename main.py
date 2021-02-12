@@ -33,4 +33,4 @@ elif gender == 'albrecht':
 
 st.write(text.format(**fill))
 
-st.sidebar.markdown("[Sourcecode at Github](https://github.com/MartinEnders/Digital-Twin_Umbrella-Review)")
+st.sidebar.markdown("[Sourcecode at Github](https://github.com/MartinEnders/Gender-Variomat)")
