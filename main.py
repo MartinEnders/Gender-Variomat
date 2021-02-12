@@ -23,7 +23,7 @@ elif gender == 'feminin':
     fill['zur_person'] = "zur B&auml;ckerin"
 elif gender == 'entgendern':
     fill['person'] = "Der Wirtschaftsinformatikende"
-    fill['zur_person'] = "zum Bakenden"
+    fill['zur_person'] = "zum Backenden"
 elif gender == 'phettberg':
     fill['person'] = "Das Wirtschaftsinformatiky"
     fill['zur_person'] = "zum B&auml;cky"
