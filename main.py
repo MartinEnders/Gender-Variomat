@@ -7,7 +7,7 @@ st.set_page_config(layout='wide',initial_sidebar_state='expanded')
 
 st.title("Gender Variomat")
 
-gender = st.sidebar.radio("Wie willst du gendern?", ("Maskulin","Feminin","Entgendern","Phettberg","Albrecht"))
+gender = st.sidebar.radio("Wie willst du gendern?", ("Entgendern","Phettberg","Albrecht","Feminin", "Maskulin"))
 gender = gender.lower()
 
 text = "{person} geht {zur_person} und kauft ein Br&ouml;tchen."
